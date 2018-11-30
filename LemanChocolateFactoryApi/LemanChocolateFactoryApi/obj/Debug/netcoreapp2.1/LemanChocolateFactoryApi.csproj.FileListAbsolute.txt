@@ -1,0 +1,14 @@
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\bin\Debug\netcoreapp2.1\LemanChocolateFactoryApi.deps.json
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\bin\Debug\netcoreapp2.1\LemanChocolateFactoryApi.runtimeconfig.json
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\bin\Debug\netcoreapp2.1\LemanChocolateFactoryApi.runtimeconfig.dev.json
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\bin\Debug\netcoreapp2.1\LemanChocolateFactoryApi.dll
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\bin\Debug\netcoreapp2.1\LemanChocolateFactoryApi.pdb
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\obj\Debug\netcoreapp2.1\LemanChocolateFactoryApi.csprojAssemblyReference.cache
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\obj\Debug\netcoreapp2.1\LemanChocolateFactoryApi.csproj.CoreCompileInputs.cache
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\obj\Debug\netcoreapp2.1\LemanChocolateFactoryApi.RazorAssemblyInfo.cache
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\obj\Debug\netcoreapp2.1\LemanChocolateFactoryApi.RazorAssemblyInfo.cs
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\obj\Debug\netcoreapp2.1\LemanChocolateFactoryApi.AssemblyInfoInputs.cache
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\obj\Debug\netcoreapp2.1\LemanChocolateFactoryApi.AssemblyInfo.cs
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\obj\Debug\netcoreapp2.1\LemanChocolateFactoryApi.RazorTargetAssemblyInfo.cache
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\obj\Debug\netcoreapp2.1\LemanChocolateFactoryApi.dll
+C:\Users\yoann\Source\Repos\LemanChocolateFactory\LemanChocolateFactoryApi\LemanChocolateFactoryApi\obj\Debug\netcoreapp2.1\LemanChocolateFactoryApi.pdb
